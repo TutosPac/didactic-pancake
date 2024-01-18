@@ -1,0 +1,25 @@
+
+.box {
+    position: relative;
+    top:100%;
+    flex-direction: column;
+}
+form {
+    display: flex;
+    flex-direction: row;
+    margin: 2vh;
+}
+form > label {
+    margin-right: 1vh;
+}
+form > div {
+    display: flex;
+    flex-direction: column;
+}
+input {
+    margin-left: 1vh;
+    margin-right: 1vh;
+}
+.content2 > label {
+   margin-left: 2vh;
+}
